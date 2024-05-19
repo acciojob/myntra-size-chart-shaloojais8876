@@ -9,12 +9,24 @@
 	background-color: brown;
 	
 }
+.td1{
+	text-align: left;
+}
+.td2{
+	text-align: left;
+}
+.td3{
+	text-align: left;
+}
 .tr1{
 	background-color: pink;
+	text-align : right;
 }
 .tr2{
 	background-color: #C4A484;
+	text-align: right;
 }
 .tr3{
 	background-color: #D3D3D3;
+	text-align:right;
 }
