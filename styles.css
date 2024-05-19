@@ -1,2 +1,20 @@
-
-/* Your CSS Code here. */
+.table{
+	border:1px solid black;
+	border-radius: none;
+	font-family:
+		text-align : left;
+}
+.head{
+	text-align: left;
+	background-color: brown;
+	
+}
+.tr1{
+	background-color: pink;
+}
+.tr2{
+	background-color: #C4A484;
+}
+.tr3{
+	background-color: #D3D3D3;
+}
